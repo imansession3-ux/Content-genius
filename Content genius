@@ -1,0 +1,13 @@
+content-genius/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── index.html
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── .gitignore
+├── .vercelignore
+└── README.md
